@@ -1,0 +1,221 @@
+[
+    {
+      "id": 1,
+      "name": "Warung Makan A",
+      "location": "Jakarta",
+      "foodProducts": [
+        {
+          "id": 1,
+          "name": "Nasi Goreng"
+        },
+        {
+          "id": 2,
+          "name": "Sate Ayam"
+        },
+        {
+          "id": 3,
+          "name": "Gado-Gado"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rumah Makan B",
+      "location": "Surabaya",
+      "foodProducts": [
+        {
+          "id": 4,
+          "name": "Rendang"
+        },
+        {
+          "id": 5,
+          "name": "Bakso"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kafe C",
+      "location": "Bandung",
+      "foodProducts": [
+        {
+          "id": 6,
+          "name": "Ayam Goreng"
+        },
+        {
+          "id": 7,
+          "name": "Soto Betawi"
+        },
+        {
+          "id": 8,
+          "name": "Pempek"
+        },
+        {
+          "id": 9,
+          "name": "Gudeg"
+        },
+        {
+          "id": 10,
+          "name": "Mie Goreng"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Restoran D",
+      "location": "Medan",
+      "foodProducts": [
+        {
+          "id": 1,
+          "name": "Nasi Goreng"
+        },
+        {
+          "id": 3,
+          "name": "Gado-Gado"
+        },
+        {
+          "id": 5,
+          "name": "Bakso"
+        },
+        {
+          "id": 7,
+          "name": "Soto Betawi"
+        },
+        {
+          "id": 9,
+          "name": "Gudeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Warung E",
+      "location": "Yogyakarta",
+      "foodProducts": [
+        {
+          "id": 2,
+          "name": "Sate Ayam"
+        },
+        {
+          "id": 4,
+          "name": "Rendang"
+        },
+        {
+          "id": 6,
+          "name": "Ayam Goreng"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rumah Makan F",
+      "location": "Bali",
+      "foodProducts": [
+        {
+          "id": 8,
+          "name": "Pempek"
+        },
+        {
+          "id": 10,
+          "name": "Mie Goreng"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kafe G",
+      "location": "Semarang",
+      "foodProducts": [
+        {
+          "id": 1,
+          "name": "Nasi Goreng"
+        },
+        {
+          "id": 3,
+          "name": "Gado-Gado"
+        },
+        {
+          "id": 5,
+          "name": "Bakso"
+        },
+        {
+          "id": 7,
+          "name": "Soto Betawi"
+        },
+        {
+          "id": 9,
+          "name": "Gudeg"
+        },
+        {
+          "id": 10,
+          "name": "Mie Goreng"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Restoran H",
+      "location": "Palembang",
+      "foodProducts": [
+        {
+          "id": 2,
+          "name": "Sate Ayam"
+        },
+        {
+          "id": 4,
+          "name": "Rendang"
+        },
+        {
+          "id": 6,
+          "name": "Ayam Goreng"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Warung I",
+      "location": "Solo",
+      "foodProducts": [
+        {
+          "id": 8,
+          "name": "Pempek"
+        },
+        {
+          "id": 10,
+          "name": "Mie Goreng"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Rumah Makan J",
+      "location": "Malang",
+      "foodProducts": [
+        {
+          "id": 1,
+          "name": "Nasi Goreng"
+        },
+        {
+          "id": 2,
+          "name": "Sate Ayam"
+        },
+        {
+          "id": 3,
+          "name": "Gado-Gado"
+        },
+        {
+          "id": 4,
+          "name": "Rendang"
+        },
+        {
+          "id": 5,
+          "name": "Bakso"
+        },
+        {
+          "id": 6,
+          "name": "Ayam Goreng"
+        }
+      ]
+    }
+  ]
+  
