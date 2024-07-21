@@ -1,221 +1,198 @@
 [
-    {
-      "id": 1,
-      "name": "Warung Makan A",
-      "location": "Jakarta",
-      "foodProducts": [
-        {
-          "id": 1,
-          "name": "Nasi Goreng"
-        },
-        {
-          "id": 2,
-          "name": "Sate Ayam"
-        },
-        {
-          "id": 3,
-          "name": "Gado-Gado"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Rumah Makan B",
-      "location": "Surabaya",
-      "foodProducts": [
-        {
-          "id": 4,
-          "name": "Rendang"
-        },
-        {
-          "id": 5,
-          "name": "Bakso"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Kafe C",
-      "location": "Bandung",
-      "foodProducts": [
-        {
-          "id": 6,
-          "name": "Ayam Goreng"
-        },
-        {
-          "id": 7,
-          "name": "Soto Betawi"
-        },
-        {
-          "id": 8,
-          "name": "Pempek"
-        },
-        {
-          "id": 9,
-          "name": "Gudeg"
-        },
-        {
-          "id": 10,
-          "name": "Mie Goreng"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Restoran D",
-      "location": "Medan",
-      "foodProducts": [
-        {
-          "id": 1,
-          "name": "Nasi Goreng"
-        },
-        {
-          "id": 3,
-          "name": "Gado-Gado"
-        },
-        {
-          "id": 5,
-          "name": "Bakso"
-        },
-        {
-          "id": 7,
-          "name": "Soto Betawi"
-        },
-        {
-          "id": 9,
-          "name": "Gudeg"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Warung E",
-      "location": "Yogyakarta",
-      "foodProducts": [
-        {
-          "id": 2,
-          "name": "Sate Ayam"
-        },
-        {
-          "id": 4,
-          "name": "Rendang"
-        },
-        {
-          "id": 6,
-          "name": "Ayam Goreng"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Rumah Makan F",
-      "location": "Bali",
-      "foodProducts": [
-        {
-          "id": 8,
-          "name": "Pempek"
-        },
-        {
-          "id": 10,
-          "name": "Mie Goreng"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Kafe G",
-      "location": "Semarang",
-      "foodProducts": [
-        {
-          "id": 1,
-          "name": "Nasi Goreng"
-        },
-        {
-          "id": 3,
-          "name": "Gado-Gado"
-        },
-        {
-          "id": 5,
-          "name": "Bakso"
-        },
-        {
-          "id": 7,
-          "name": "Soto Betawi"
-        },
-        {
-          "id": 9,
-          "name": "Gudeg"
-        },
-        {
-          "id": 10,
-          "name": "Mie Goreng"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Restoran H",
-      "location": "Palembang",
-      "foodProducts": [
-        {
-          "id": 2,
-          "name": "Sate Ayam"
-        },
-        {
-          "id": 4,
-          "name": "Rendang"
-        },
-        {
-          "id": 6,
-          "name": "Ayam Goreng"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Warung I",
-      "location": "Solo",
-      "foodProducts": [
-        {
-          "id": 8,
-          "name": "Pempek"
-        },
-        {
-          "id": 10,
-          "name": "Mie Goreng"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Rumah Makan J",
-      "location": "Malang",
-      "foodProducts": [
-        {
-          "id": 1,
-          "name": "Nasi Goreng"
-        },
-        {
-          "id": 2,
-          "name": "Sate Ayam"
-        },
-        {
-          "id": 3,
-          "name": "Gado-Gado"
-        },
-        {
-          "id": 4,
-          "name": "Rendang"
-        },
-        {
-          "id": 5,
-          "name": "Bakso"
-        },
-        {
-          "id": 6,
-          "name": "Ayam Goreng"
-        }
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Warung Makan A",
+    "location": "Jakarta",
+    "latitude": -6.2088,
+    "longitude": 106.8456,
+    "rating": 4.5,
+    "foodProducts": [
+      {
+        "id": 1,
+        "name": "Nasi Goreng",
+        "imageSrc": "https://example.com/nasi_goreng.jpg",
+        "price": 25000,
+        "discountedPrices": 20000
+      },
+      {
+        "id": 2,
+        "name": "Sate Ayam",
+        "imageSrc": "https://example.com/sate_ayam.jpg",
+        "price": 30000,
+        "discountedPrices": 27000
+      },
+      {
+        "id": 3,
+        "name": "Gado-Gado",
+        "imageSrc": "https://example.com/gado_gado.jpg",
+        "price": 20000,
+        "discountedPrices": 18000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Rumah Makan B",
+    "location": "Surabaya",
+    "latitude": -7.2575,
+    "longitude": 112.7521,
+    "rating": 4.2,
+    "foodProducts": [
+      {
+        "id": 4,
+        "name": "Rendang",
+        "imageSrc": "https://example.com/rendang.jpg",
+        "price": 50000,
+        "discountedPrices": 45000
+      },
+      {
+        "id": 5,
+        "name": "Bakso",
+        "imageSrc": "https://example.com/bakso.jpg",
+        "price": 15000,
+        "discountedPrices": 13000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kafe C",
+    "location": "Bandung",
+    "latitude": -6.9175,
+    "longitude": 107.6191,
+    "rating": 4.8,
+    "foodProducts": [
+      {
+        "id": 6,
+        "name": "Ayam Goreng",
+        "imageSrc": "https://example.com/ayam_goreng.jpg",
+        "price": 35000,
+        "discountedPrices": 32000
+      },
+      {
+        "id": 7,
+        "name": "Soto Betawi",
+        "imageSrc": "https://example.com/soto_betawi.jpg",
+        "price": 40000,
+        "discountedPrices": 38000
+      },
+      {
+        "id": 8,
+        "name": "Pempek",
+        "imageSrc": "https://example.com/pempek.jpg",
+        "price": 20000,
+        "discountedPrices": 18000
+      },
+      {
+        "id": 9,
+        "name": "Gudeg",
+        "imageSrc": "https://example.com/gudeg.jpg",
+        "price": 25000,
+        "discountedPrices": 23000
+      },
+      {
+        "id": 10,
+        "name": "Mie Goreng",
+        "imageSrc": "https://example.com/mie_goreng.jpg",
+        "price": 15000,
+        "discountedPrices": 14000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Restoran D",
+    "location": "Medan",
+    "latitude": 3.5952,
+    "longitude": 98.6722,
+    "rating": 4.0,
+    "foodProducts": [
+      {
+        "id": 1,
+        "name": "Nasi Goreng",
+        "imageSrc": "https://example.com/nasi_goreng.jpg",
+        "price": 25000,
+        "discountedPrices": 20000
+      },
+      {
+        "id": 3,
+        "name": "Gado-Gado",
+        "imageSrc": "https://example.com/gado_gado.jpg",
+        "price": 20000,
+        "discountedPrices": 18000
+      },
+      {
+        "id": 5,
+        "name": "Bakso",
+        "imageSrc": "https://example.com/bakso.jpg",
+        "price": 15000,
+        "discountedPrices": 13000
+      },
+      {
+        "id": 7,
+        "name": "Soto Betawi",
+        "imageSrc": "https://example.com/soto_betawi.jpg",
+        "price": 40000,
+        "discountedPrices": 38000
+      },
+      {
+        "id": 9,
+        "name": "Gudeg",
+        "imageSrc": "https://example.com/gudeg.jpg",
+        "price": 25000,
+        "discountedPrices": 23000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Warung E",
+    "location": "Yogyakarta",
+    "latitude": -7.7971,
+    "longitude": 110.3705,
+    "rating": 4.3,
+    "foodProducts": [
+      {
+        "id": 2,
+        "name": "Sate Ayam",
+        "imageSrc": "https://example.com/sate_ayam.jpg",
+        "price": 30000,
+        "discountedPrices": 27000
+      },
+      {
+        "id": 4,
+        "name": "Rendang",
+        "imageSrc": "https://example.com/rendang.jpg",
+        "price": 50000,
+        "discountedPrices": 45000
+      },
+      {
+        "id": 6,
+        "name": "Ayam Goreng",
+        "imageSrc": "https://example.com/ayam_goreng.jpg",
+        "price": 35000,
+        "discountedPrices": 32000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rumah Makan F",
+    "location": "Bali",
+    "latitude": -8.3405,
+    "longitude": 115.0920,
+    "rating": 4.7,
+    "foodProducts": [
+      {
+        "id": 8,
+        "name": "Pempek",
+        "imageSrc": "https://example.com/pempek.jpg",
+        "price": 20000,
+        "discountedPrices": 18000
+      },
+      {
+        "id": 10,
+        "name": "Mie Goreng",
+        "imageSrc": "https://example.com/mie_goreng.jpg",
+        "price": 15000,
+        "discount
